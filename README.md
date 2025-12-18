@@ -29,6 +29,7 @@
 
 [tag_moneulo]: https://github.com/kotpodlawkoy/moneulo
 [tag_kotpodlawkoy_sln_generator]: https://github.com/kotpodlawkoy/kotpodlawkoy.sln.csproj.generator
+[tag_omnisharp_issue]: https://github.com/OmniSharp/omnisharp-vim/issues/875
 
 [tag_prototype_0]: https://github.com/kotpodlawkoy/unity_prototype_0
 [tag_prototype_1]: https://github.com/kotpodlawkoy/unity_prototype_1
