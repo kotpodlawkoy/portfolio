@@ -12,7 +12,7 @@ Further will be given list of projects with associated links to appropriate repo
 
 **Unity Tools creation experience:**
 
-For omnisharp-vim plugin working properly I've developed [Unity tool for .sln extension generation instead of new .slnx files][tag_kotpodlawkoy_sln_generator]
+For omnisharp-vim plugin works properly I've developed [Unity tool for .sln extension generation instead of new .slnx files][tag_kotpodlawkoy_sln_generator]
 
   Details are in appropriate repo.
 
@@ -67,7 +67,7 @@ For omnisharp-vim plugin working properly I've developed [Unity tool for .sln ex
     * [Prototype_3][tag_prototype_3]
     * [Prototype_4][tag_prototype_4]
     * [Prototype_5][tag_prototype_5]
- * Unity Creative Core roadmap:
+  * Unity Creative Core roadmap:
     * [Guided Project][tag_creative_core_project]
 
 [tag_moneulo]: https://github.com/kotpodlawkoy/moneulo
