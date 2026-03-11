@@ -10,7 +10,7 @@ Further will be given list of projects with associated links to appropriate repo
 
 **The most significient project** at the moment is [Moneulo][tag_moneulo], because it is fully independent and there was a space for good architecture design
 
-**Unity Tools creation experience:
+**Unity Tools creation experience:**
 
 For omnisharp-vim plugin working properly I've developed [Unity tool for .sln extension generation instead of new .slnx files][tag_kotpodlawkoy_sln_generator]
 
