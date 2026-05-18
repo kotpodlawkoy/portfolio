@@ -81,4 +81,4 @@ For omnisharp-vim plugin works properly I've developed [Unity tool for .sln exte
 [tag_prototype_4]: https://github.com/kotpodlawkoy/unity_prototype_4
 [tag_prototype_5]: https://github.com/kotpodlawkoy/unity_prototype_5
 
-[tag_creative_core_project]: 
+[tag_creative_core_project]: https://github.com/kotpodlawkoy/beachside_town_guided_project
